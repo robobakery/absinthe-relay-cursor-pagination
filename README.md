@@ -27,6 +27,8 @@ Now you can visit [`localhost:4000/graph/graphiql`](http://localhost:4000) from 
 - continue to paginate first 5 trending posts, after "YXJyYXljb25uZWN0aW9uOjQ=" (5th)
 - you will see one post (which has been boosted) is not in your list (PROBLEM!)
 
+
+## What you can do?
 Queries:
 
   * trending_posts: list trending_posts (order_by desc: :total_post_views)
